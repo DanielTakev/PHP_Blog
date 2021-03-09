@@ -1,0 +1,83 @@
+h1 {
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+p {
+    font-size: medium;
+}
+
+div {
+    margin: 5px;
+    padding: 5px;
+}
+
+.login {
+    color: black;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 3px;
+}
+
+.question {
+    background-color: aquamarine;
+    color: black;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.answer {
+    background-color: azure;
+    color: black;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.answerby {
+    background-color: lightskyblue;
+    color: black;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.logoutHeader {
+    background-color: azure;
+    color: black;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.backHeader {
+    background-color: antiquewhite;
+    color: black;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    font-size: large;
+}
+
+tr:hover {
+    background-color: lightslategrey;
+}
+
+th {
+    background-color: lightslategrey;
+    color: white;
+}
+
+.likeButton {
+    background-color: khaki;
+    color: black;
+    font-size: large;
+}

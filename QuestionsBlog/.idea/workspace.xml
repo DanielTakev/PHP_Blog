@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4db65c7-dcba-4d32-badb-28472a7c66fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1hldsW2FEKET7lr5icMsXkXyKBd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\F99106ExamProject\QuestionsBlog" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="login.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gg/login.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.login.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4db65c7-dcba-4d32-badb-28472a7c66fa" name="Default Changelist" comment="" />
+      <created>1600589819234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600589819234</updated>
+      <workItem from="1600589820307" duration="3694000" />
+      <workItem from="1600595314509" duration="2585000" />
+      <workItem from="1601148773306" duration="25608000" />
+      <workItem from="1602539149075" duration="11362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="0" key="#PHP" timestamp="1600589870079">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="0" key="#PHP/0.0.1280.680@0.0.1280.680" timestamp="1600589870079" />
+    <state x="80" y="178" key="#SQL_Dialects" timestamp="1601246058583">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="80" y="178" key="#SQL_Dialects/0.0.1280.680@0.0.1280.680" timestamp="1601246058583" />
+    <state x="233" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600595615143">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1600595615143" />
+    <state width="267" height="457" key="HiddenNamespacesPopup" timestamp="1600589918831">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="267" height="457" key="HiddenNamespacesPopup/0.0.1280.680@0.0.1280.680" timestamp="1600589918831" />
+    <state x="476" y="263" key="NewPhpFileDialog" timestamp="1602592351361">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="476" y="263" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1602592351361" />
+    <state x="540" y="217" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1600591080271">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="540" y="217" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1280.680@0.0.1280.680" timestamp="1600591080271" />
+    <state x="519" y="227" width="312" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1600590993424">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="519" y="227" width="312" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1280.680@0.0.1280.680" timestamp="1600590993424" />
+    <state x="0" y="0" width="587" height="680" key="find.popup" timestamp="1601295984113">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="587" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1601295984113" />
+  </component>
+</project>
